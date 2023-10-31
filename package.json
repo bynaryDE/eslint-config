@@ -1,7 +1,33 @@
 {
     "name": "@bynary/eslint-config",
+    "description": "ESLint shareable config for the bynary JavaScript, TypeScript and Angular style guide",
     "version": "0.0.1",
     "license": "MIT",
+    "author": "bynary GmbH (https://www.bynary.io)",
+    "contributors": [
+        {
+            "name": "Johannes Homeier",
+            "email": "j.homeier@bynary.io"
+        }
+    ],
+    "bugs": {
+        "url": "https://github.com/bynaryDE/eslint-config/issues"
+    },
+    "homepage": "https://github.com/bynaryDE/eslint-config",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bynaryDE/eslint-config"
+    },
+    "keywords": [
+        "bynary",
+        "eslint",
+        "eslintconfig",
+        "config",
+        "styleguide",
+        "javascript",
+        "typescript",
+        "angular"
+    ],
     "scripts": {
         "build": "nx build",
         "test": "nx test"
