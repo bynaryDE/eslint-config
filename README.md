@@ -20,7 +20,7 @@ The default config is for use in most projects and contains JavaScript and TypeS
     "extends": [
         "@bynary"
     ],
-        "rules": {
+    "rules": {
         // Your overrides
     }
 }
