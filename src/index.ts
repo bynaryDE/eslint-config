@@ -1,1 +1,4 @@
-export * from './lib/eslint-config';
+export = {
+    extends: './base',
+    overrides: []
+};
