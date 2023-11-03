@@ -33,6 +33,7 @@
         "test": "nx test"
     },
     "dependencies": {
+        "@nx/devkit": "^17.0.2",
         "tslib": "^2.3.0"
     },
     "devDependencies": {
@@ -54,7 +55,6 @@
         "vite": "~4.3.9",
         "vitest": "~0.32.0"
     },
-    "peerDependencies": {},
     "type": "commonjs",
     "main": "./src/index.js",
     "typings": "./src/index.d.ts",
