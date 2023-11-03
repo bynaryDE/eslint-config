@@ -17,4 +17,4 @@ jobs:
                 with:
                     release-type: node
                     package-name: '@bynary/eslint-config'
-                    bump-minor-pre-major: Yes
+                    bump-minor-pre-major: true
