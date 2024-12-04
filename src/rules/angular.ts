@@ -19,12 +19,6 @@ export default {
                     'Page'
                 ]
             }
-        ],
-        '@angular-eslint/no-host-metadata-property': [
-            'error',
-            {
-                allowStatic: true
-            }
         ]
     }
 };
