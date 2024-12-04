@@ -1,7 +1,7 @@
 {
     "name": "@bynary/eslint-config",
     "description": "ESLint shareable config for the bynary JavaScript, TypeScript and Angular style guide",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "license": "MIT",
     "author": "bynary GmbH (https://www.bynary.io)",
     "contributors": [
