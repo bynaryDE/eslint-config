@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/bynaryDE/eslint-config/compare/v0.1.0...v0.2.0) (2024-12-04)
+
+
+### Features
+
+* remove @angular-eslint/no-host-metadata-property rule ([c3e4a2c](https://github.com/bynaryDE/eslint-config/commit/c3e4a2cf93e7f40a917365de1426b04351bc9f83))
+
 ## 0.1.0 (2023-11-03)
 
 
